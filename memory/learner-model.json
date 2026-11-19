@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": null,
+
+  "learner_model": {
+    "purpose": "Persistent evolving model of the learner's cognitive fingerprint, optimal teaching modality, and performance trajectory.",
+
+    "cognitive_fingerprint": {
+      "dominant_mental_model": null,
+      "optimal_explanation_modality": null,
+      "attention_span_per_concept": null,
+      "learning_velocity": null,
+      "confidence_pattern": null
+    },
+
+    "performance_trajectory": {
+      "trajectory_direction": null,
+      "sessions_analyzed": 0,
+      "trend_summary": null,
+      "weekly_velocity": {
+        "fastest_growing_domain": null,
+        "slowest_growing_domain": null,
+        "stagnant_domains": []
+      }
+    },
+
+    "anti_patterns_chronic": []
+  },
+
+  "usage_note": "Seed template. The agent auto-builds the learner model after the first 2-3 sessions of interaction."
+}

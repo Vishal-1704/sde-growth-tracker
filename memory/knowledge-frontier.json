@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": null,
+
+  "knowledge_states": {
+    "MASTERED": {
+      "description": "Concept clicked on first explanation AND passed at least one active-recall test. Safe to build upon.",
+      "concepts": []
+    },
+    "DEVELOPING": {
+      "description": "Understands when explained step-by-step. Can implement from blueprint. Not yet independently verified.",
+      "concepts": []
+    },
+    "FRAGILE": {
+      "description": "Introduced but not reliably retained. High risk of regression. Needs active recall testing.",
+      "concepts": []
+    },
+    "UNVERIFIED_HUNCH": {
+      "description": "AI suspects the developer may know this but has never been explicitly tested. Must be probed casually.",
+      "concepts": []
+    }
+  },
+
+  "usage_note": "Seed template for new adopters. The agent auto-populates knowledge states based on session audits."
+}

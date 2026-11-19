@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2026-11-19",
+  "next_session_date": null,
+
+  "wakeup_mission": {
+    "teach_targets": [],
+    "punch_test_queue": [],
+    "unverified_hunches_to_probe": []
+  },
+
+  "usage_note": "This is the universal SDE skill seed. When a new developer begins using this skill, the agent populates teach_targets and punch_test_queue based on the first session's audit. The developer-growth-tracker (personal) has pre-seeded data; this universal version starts clean for each adopter."
+}

@@ -1,0 +1,8 @@
+﻿# Ignore personal debriefs and session logs
+memory/debriefs/*
+!memory/debriefs/.gitkeep
+
+# Ignore OS & temporary files
+.DS_Store
+Thumbs.db
+*.tmp

@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": null,
+
+  "learning_path": {
+    "purpose": "The Pedagogical Decision Engine's recommended learning sequence. Decides WHAT to teach next and HOW.",
+    "current_phase": null,
+    "recommended_sequence": [],
+    "parking_lot": {
+      "description": "Concepts deliberately deferred because prerequisites are not yet met.",
+      "items": []
+    }
+  }
+}

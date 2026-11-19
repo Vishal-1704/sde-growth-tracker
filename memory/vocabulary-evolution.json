@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": null,
+
+  "terminology_tracking": {
+    "purpose": "Tracks the developer's natural language evolution from layman phrasing to precise engineering vocabulary.",
+    "observed_transitions": [],
+    "high_frequency_patterns": {
+      "words_used_often": [],
+      "industry_equivalents": [],
+      "coaching_note": null
+    }
+  }
+}
